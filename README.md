@@ -1,4 +1,4 @@
-# MetadataExctractorPDF
+# MetadataExtractorPDF
 Application to extract metadata from PDF files
 
 This is a Python Script that permits to extract metadata from a PDF file.
