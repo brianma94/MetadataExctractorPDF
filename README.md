@@ -9,4 +9,5 @@ This is a Python Script that permits to extract metadata from a PDF file.
 - from PyPDF2 PdfFileReader
 
 <b><h2>Execution</h2></b>
+
     python metadataExtractorPDF.py -f file.pdf
